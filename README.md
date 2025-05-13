@@ -8,5 +8,5 @@ The game was intended to be played by 2 players through the console by running t
 
 ## Social Network
 
-***LinkedIn:*** https://www.linkedin.com/in/adrian-carnate/
-***GitHub:*** https://github.com/aadriancar/
+- **LinkedIn:** https://www.linkedin.com/in/adrian-carnate/
+- **GitHub:** https://github.com/aadriancar/
